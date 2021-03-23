@@ -1,0 +1,1 @@
+"use strict";var locationPath=location.origin,servicePath=location.origin,staticResourcePath=location.origin+"/",crossUrl="http://47.75.154.81:9900",articleList=servicePath+"/static/js/json/article.json",articleDetail=servicePath+"/static/js/json/articleDetail.json",articleList_last=crossUrl+"/admin/website/news/page",articleDetail_last=crossUrl+"/admin/website/news/";
